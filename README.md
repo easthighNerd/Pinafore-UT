@@ -1,2 +1,3 @@
-# Pinafore-UT
-Unofficial Pinafore web app for Ubuntu Touch
+# Pinafore UT
+
+Unofficial Pinafore webapp for Ubuntu Touch
