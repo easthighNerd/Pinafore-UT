@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Pinafore
-Exec=webapp-container --webappUrlPatterns=https?://pinafore.social/* https://pinafore.social
+Exec=webapp-container https://pinafore.social
 Icon=logo.png
 Terminal=false
 Type=Application
