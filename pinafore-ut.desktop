@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Pinafore
-Exec=webapp-container https://pinafore.social
+Exec=webapp-container https://pinafore.social --store-session-cookies --enable-media-hub-audio --open-external-url-in-overlay
 Icon=logo.png
 Terminal=false
 Type=Application
