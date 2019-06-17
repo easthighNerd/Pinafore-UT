@@ -6,10 +6,11 @@
     "hooks": {
         "pinafore-ut": {
             "apparmor": "pinafore-ut.apparmor",
-            "desktop":  "pinafore-ut.desktop"
+            "desktop":  "pinafore-ut.desktop",
+            "content-hub": "content-hub.json"
         }
     },
-    "version": "2019.06.17-1",
+    "version": "2019.06.17-9",
     "maintainer": "John G Laufert <johnglaufert@pm.me>",
     "framework" : "ubuntu-sdk-16.04"
 }
