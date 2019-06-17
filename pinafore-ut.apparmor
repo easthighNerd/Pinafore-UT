@@ -3,6 +3,10 @@
 
     
     "policy_groups": [
+        "audio",
+        "camera",
+        "content_exchange",
+        "content_exchange_source",
         "networking",
         "webview"
     ],
