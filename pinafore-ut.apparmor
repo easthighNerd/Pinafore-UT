@@ -6,8 +6,9 @@
         "audio",
         "camera",
         "content_exchange",
-        "content_exchange_source",
+        "microphone",
         "networking",
+        "video",
         "webview"
     ],
     
