@@ -1,9 +1,9 @@
 [Desktop Entry]
 Name=Pinafore
-Comment=Unofficial Pinafore web app for Ubuntu Touch
 Exec=webapp-container https://pinafore.social --store-session-cookies --enable-media-hub-audio --open-external-url-in-overlay
 Icon=logo.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
-X-Ubuntu-Splash-Color=#D6D3CD
+X-Ubuntu-Splash-Color=#17358f
+X-Ubuntu-Supported-Orientations=portrait
