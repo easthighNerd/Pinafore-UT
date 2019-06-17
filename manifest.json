@@ -9,7 +9,7 @@
             "desktop":  "pinafore-ut.desktop"
         }
     },
-    "version": "2019.04.18",
+    "version": "2019.06.17-1",
     "maintainer": "John G Laufert <johnglaufert@pm.me>",
     "framework" : "ubuntu-sdk-16.04"
 }
